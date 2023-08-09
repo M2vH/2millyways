@@ -88,7 +88,7 @@ This is how your trip will look like.
 
 ![](./assets/BER-Ostkreuz-Mildenberg.png)
 
-But universe is a dynamic thingy, so we device your trip in smaller steps.
+But universe is a dynamic thingy, so we divide your trip in smaller steps.
 
 ### Part 1 - Reaching Oranienburg via Ostkreuz
 
