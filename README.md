@@ -63,7 +63,7 @@ In the order you need them on your way from `✈️BER` to `🚀Milliways`
 - `FEX`: Regional train, best to travel from `✈️BER` to `Berlin S Ostkreuz Bhf`.
 - `Berlin S Ostkreuz Bhf`: Train station, it's near `Ostbahnhof`, but it's a different station.
 - `RE12`: Regional Train (from `Berlin S Ostkreuz Bhf` to `Templin` via `Zehdenick`)
-- `S Bhf Oranienburg`: Train station (north of Berlin), the last station, that `RB5` and `RB12` stop. Last chance to get on the right `RB12`.
+- `S Bhf Oranienburg`: Train station (north of Berlin), the last station, where `RB5` and `RB12` stop both. Last chance to get on the right `RB12`.
 - `Zehdenick (Mark) Bahnhof`: Railway Station next to 🚀Milliways
 - `Mildenberg, Ziegeleipark`: Bus Stop next to 🚀Milliways
 
