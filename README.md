@@ -51,16 +51,30 @@ commit id:"Say Hello!" tag:"🚀Milliways"
 
 - [How to read the plan](#you-read-it-like-a-github-history)
 - [Waypoint names for route planning](#waypoints-names-you-need)
-- [You are coming by plane to ✈️BER](#hitchhikers-guide-from-✈️ber-to-🚀milliways)
-- [You are coming by train to Berlin main station](#hitchhikers-guide-for-trains-from-berlin-to-milliways)
+- [You are coming by plane to ✈️BER](#hitchhikers-guide-from-airport-ber-to-milliways)
+- [You are coming by train to 🚂Berlin main station](#hitchhikers-guide-for-trains-from-berlin-to-milliways)
 
 ## You read it like a github history
 
-You are somewhere in the universe. So you create your trip in a branch `Road to Millyways`. Let's checkout `Road to Millyways` and commit id: `Home`. It's good to have something you want to return to. You need a feature, as you plan to fly. Branch `Berlin via BER`, and going your way, you commit id:`Departure`, commit id:`Arrival` and find the train station. commit id:`Berlin BER Terminal 1 station`. Now you go on train, so create branch `Berlin via DB` and merge `Berlin via BER` tag:`LEX`. Because `LEX` is the best choice to reach your next milestone. commit id:`Berlin S Bhf Ostkreuz`. You change the train to branch `Zehdenick via RE12`, and commit id:`S Bhf, Oranienburg`. Don't forget to watch out for others coming from branch `Gransee via RE5`. Short after commit id:`Zehdenick (Mark) Bhf`, you should commit id:`Call Bus 838`. Now it should work like a charme, so checkout `Road to Millyways`, merge `Zehdenick via RE12` tag:`Ziegeleipark`, get your tickets ready, commit id:`CCCAMP23` tag:`On Camp` and finally commit id:`Say Hello!` tag:`🚀Milliways`.
+You are somewhere in the universe. So you create your trip in a branch `Road to Millyways`. 
+
+Let's checkout `Road to Millyways` and commit id: `Home`. It's good to have something you want to return to. 
+
+You need a feature, as you plan to fly. Branch `Berlin via BER`, and going your way, you commit id:`Departure`, commit id:`Arrival` and find the train station. commit id:`Berlin BER Terminal 1 station`. 
+
+Now you go on train, so create branch `Berlin via DB` and merge `Berlin via BER` tag:`LEX`. Because `LEX` is the best choice to reach your next milestone. commit id:`Berlin S Bhf Ostkreuz`. 
+
+You change the train to branch `Zehdenick via RE12`, and commit id:`S Bhf, Oranienburg`. Don't forget to watch out for others coming from branch `Gransee via RE5`. 
+
+Short after commit id:`Zehdenick (Mark) Bhf`, you should commit id:`Call Bus 838`. 
+
+Now it should work like a charme, so checkout `Road to Millyways`, merge `Zehdenick via RE12` tag:`Ziegeleipark`, get your tickets ready, commit id:`CCCAMP23` tag:`On Camp` and finally 
+
+commit id:`Say Hello!` tag:`🚀Milliways`.
 
 ---
 
-## Waypoints' names you need
+## Waypoints names you need
 
 In the order you need them on your way from `✈️BER` to `🚀Milliways`
 
@@ -83,7 +97,7 @@ In the order you need them on your way from `✈️BER` to `🚀Milliways`
 
 ---
 
-## Hitchhikers guide from `✈️BER` to `🚀Milliways`
+## Hitchhikers guide from airport BER to Milliways
 
 This is how your trip will look like.
 
@@ -115,7 +129,7 @@ You want to take `RB12` to `Templin` via `Zehdenick`
 
 ---
 
-## Hitchhikers guide for trains from 🚂Berlin to 🚀Milliways
+## Hitchhikers guide for trains from Berlin to Milliways
 
 I assume you will reach Berlin at main station, name for any routing app is `S+U Hauptbahnhof (tief), Berlin`. Your target is Ziegeleipark Mildenberg, name in routing apps is `Mildenberg, Ziegeleipark, Zehdenick (Mark)`.
 
@@ -129,7 +143,7 @@ Main difference between these two is the connection to 🚀Milliways by Bus.
 
 ---
 
-### Zehdenick Bahnhof to 🚀Milliways
+### Zehdenick Bahnhof to Milliways
 
 From `Zehdenick` there is `Bus 838`, which needs to be called by phone (`☎️ +49 3306 2307`). Call must be made 90 minutes **before** your planned trip. 
 
@@ -143,7 +157,7 @@ From Monday till Friday please use link below.
 
 ---
 
-### Gransee Bahnhof to 🚀Milliways
+### Gransee Bahnhof to Milliways
 
 From `Gransee` there is `BUS 854` direkt drive to 🚀Milliways. 
 
