@@ -145,6 +145,9 @@ Main difference between these two is the connection to 🚀Milliways by Bus.
 
 ### Zehdenick Bahnhof to Milliways
 
+    As of time of last commit, 
+    this is my prefered destination.
+
 From `Zehdenick` there is `Bus 838`, which needs to be called by phone (`☎️ +49 3306 2307`). Call must be made 90 minutes **before** your planned trip. 
 
 On Saturdays, Bus goes every hour from 9 am till 8 pm.
