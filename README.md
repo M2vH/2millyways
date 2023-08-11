@@ -52,7 +52,7 @@ commit id:"Say Hello!" tag:"🚀Milliways"
 - [How to read the plan](#you-read-it-like-a-github-history)
 - [Waypoint names for route planning](#waypoints-names-you-need)
 - [You are coming by plane to ✈️BER](#hitchhikers-guide-from-✈️ber-to-🚀milliways)
-- [You are coming by train to Berlin main station](#hitchhikers-guide-for-trains-from-🚂berlin-to-🚀milliways)
+- [You are coming by train to Berlin main station](#hitchhikers-guide-for-trains-from-berlin-to-milliways)
 
 ## You read it like a github history
 
