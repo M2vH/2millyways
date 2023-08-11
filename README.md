@@ -52,6 +52,7 @@ commit id:"Say Hello!" tag:"🚀Milliways"
 - [How to read the plan](#you-read-it-like-a-github-history)
 - [Waypoint names for route planning](#waypoints-names-you-need)
 - [You are coming by plane to ✈️BER](#hitchhikers-guide-from-✈️ber-to-🚀milliways)
+- [You are coming by train to Berlin main station](#hitchhikers-guide-for-trains-from-🚂berlin-to-🚀milliways)
 
 ## You read it like a github history
 
@@ -112,6 +113,7 @@ You want to take `RB12` to `Templin` via `Zehdenick`
 
 ![](./assets/Oranienburg-Zehdenick-Mildenberg.png)
 
+---
 
 ## Hitchhikers guide for trains from 🚂Berlin to 🚀Milliways
 
@@ -124,6 +126,8 @@ We have two train stations near 🚀Milliways.
 - [Bahnhof, Gransee](https://www.efa.de/hitsl3plus/departureMonitor?formik=origin%3Dde%253A12065%253A900203709&lng=en) Distance 13 km
 
 Main difference between these two is the connection to 🚀Milliways by Bus.
+
+---
 
 ### Zehdenick Bahnhof to 🚀Milliways
 
